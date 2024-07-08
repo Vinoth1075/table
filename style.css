@@ -1,0 +1,55 @@
+body{
+    
+    
+    margin: auto;
+    size:initial;
+    background: url(./pexels-giorgio-de-angelis-482403-1413412.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    
+    
+
+}
+div{
+    display: flex;
+    margin:auto;
+    margin-top:7%;
+    justify-content:space-evenly;
+    background: rgba(0,0,0,0.5);
+    
+    
+}
+img{
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    padding-top: 20px;
+    padding-left: 20px;
+    height: 100px;
+    width: 100px;
+}
+th{
+    padding-left: 50%;
+    font-style: oblique;
+    font-size: larger;
+    font-weight: 400;
+    color: chocolate;
+
+}
+#a{
+    
+    font-style: oblique;
+    font-size: larger;
+    font-weight: 400;
+    color:aquamarine;
+
+}
+h1{
+    font-style:italic;
+    font-size: x-large;
+    font-weight: bolder;
+    color: crimson;
+    background: linear-gradient(90deg,grey,white,grey);
+    padding-left: 50%;
+    
+}
